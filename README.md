@@ -19,6 +19,7 @@ This repository serves as a centralized storage for personal images, logos, wall
 | `lockscreen.jpg` | Lockscreen wallpaper | Image |
 | `logo.bmp` | Logo bitmap format | Image |
 | `wallpaper.jpg` | Desktop wallpaper | Image |
+| `IOS_LOCATION_IP_APP_GUIDE.md` | SwiftUI guide for location + satellite map + public IP | Document |
 
 ## 🎯 Purpose
 
